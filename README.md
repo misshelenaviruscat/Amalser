@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/virus-cat">virus-cat</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,26 +39,26 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@viruscat/viruscat)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/virus-cat/viruscat
+$ cd viruscat
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Amalser.js
+$ node viruscat.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/virus-cat/virus cat
+$ cd viruscat
 $ npm i
-$ node Amalser.js
+$ node viruscat.js
 ```
 
 ----
@@ -73,7 +73,7 @@ $ node Amalser.js
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
 <a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
 <a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/virus cat/viruscat/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -102,7 +102,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![viruscat](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
